@@ -67,10 +67,6 @@ Select your model on the Roland website to find the relevant owner's manual and 
 - The perceived sound may vary depending on amplification, speakers, headphones, instrument settings, and playing technique.
 - You may adjust the global settings of your accordion to suit your preferences and performance setup.
 
-## 👨‍💻 Developer
-
-**Viktor Miller**  
-Accordify
 
 ## 📄 License
 
@@ -80,3 +76,8 @@ Please refer to the `LICENSE` file included in this repository for the applicabl
 
 *Thank you for exploring Accordify Soundset #1. Enjoy playing!*# Accordify-soundset-1-for-Roland-FR-4x-8x
 Accordify Soundset #1 for Roland FR-4x and FR-8x. A custom acoustic accordion soundset based on two real Italian accordions from Castelfidardo, featuring 14 treble registers and 7 bass registers.
+
+
+License
+
+For personal, non-commercial use only. Redistribution, resale, or any commercial use without the author's prior written permission is prohibited.
